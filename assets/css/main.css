@@ -18,7 +18,7 @@
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
-:root { 
+:root {
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
   --default-color: #2f3138; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #2f3138; /* Color for headings, subheadings and title throughout the website */
@@ -871,7 +871,7 @@ section,
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 100vh;
+  min-height: 30vh;
   position: relative;
   padding: 100px 0 0 0;
   display: flex;
